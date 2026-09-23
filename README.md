@@ -57,3 +57,13 @@ computador donde se trabajan y están en `.gitignore`:
 
 En un computador nuevo esas carpetas empiezan vacías. Los referentes se vuelven
 a descargar cuando se necesitan; `personas.md` se recrea a mano si hace falta.
+
+## Licencia
+
+El código, las instrucciones (`CLAUDE.md`, `.context/`, la skill) y la plantilla
+de marca están bajo licencia [MIT](LICENSE): puedes usarlos, modificarlos y
+usarlos en proyectos comerciales conservando el aviso de autoría.
+
+El material de cada marca en `marcas/<marca>/` —logos, fotos, textos y
+carruseles producidos— pertenece a su marca y **no** entra en la licencia MIT.
+Está en el repositorio como ejemplo de uso, no para reutilizarlo.
