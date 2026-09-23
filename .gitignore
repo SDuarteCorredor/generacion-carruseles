@@ -1,0 +1,16 @@
+# Dependencias: se reinstalan con npm install
+node_modules/
+
+# Contenido de terceros y datos internos: SOLO LOCAL (el repo es público)
+marcas/*/referentes/
+marcas/*/personas.md
+_archivo/
+
+# Salidas temporales del motor
+salida/*
+!salida/.gitkeep
+out/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini

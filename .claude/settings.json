@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/*)",
+      "Bash(npm run *)",
+      "Bash(npx remotion *)",
+      "Bash(npx tsc *)",
+      "Bash(ffmpeg *)",
+      "Bash(ffprobe *)",
+      "Bash(python .claude/skills/*)",
+      "PowerShell(node scripts/*)",
+      "PowerShell(npm run *)",
+      "PowerShell(npx remotion *)",
+      "PowerShell(npx tsc *)",
+      "PowerShell(ffmpeg *)",
+      "PowerShell(ffprobe *)",
+      "PowerShell(& ffmpeg *)",
+      "PowerShell(& ffprobe *)"
+    ],
+    "ask": [
+      "Bash(npm install*)",
+      "PowerShell(npm install*)"
+    ]
+  }
+}
