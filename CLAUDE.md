@@ -7,6 +7,14 @@ carpeta; no crear nada suelto fuera de ella.
 @.context/flujo.md
 @.context/adaptar-referentes.md
 
+## Antes de todo: ¿primera vez en este computador?
+
+Si **no existe `.local/perfil.md`**, hacer la entrevista de arranque de
+`.context/arranque.md` antes de cualquier otra tarea: preguntas en rondas
+cortas para conocer a la persona y a la marca. Al terminar se crea
+`.local/perfil.md` (solo local, no se sube). Si existe, leerlo al empezar:
+dice quién es el usuario y cómo prefiere trabajar.
+
 ## Primero: ¿para qué marca?
 
 Cada marca vive en `marcas/<marca>/`. **Antes de proponer nada, saber para

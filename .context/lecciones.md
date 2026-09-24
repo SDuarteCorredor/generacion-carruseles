@@ -4,6 +4,10 @@
 
 - La carpeta está en el Escritorio **sincronizado con Google Drive**. No borrar
   material sin preguntar; lo que sale del flujo va a `_archivo/`.
+- **Nunca copiar entregables fuera de la carpeta** (ni a Descargas "para que
+  sea más fácil"): Santiago no quiere archivos sueltos. Los finales viven solo
+  en `salida/`; si un programa no abre la carpeta, se resuelve el acceso, no
+  se duplica.
 - Remotion de este proyecto tiene `node_modules` propio (4.0.x). La primera vez
   que se renderiza descarga Chrome Headless (~113 MB).
 - ffmpeg funcionó desde Bash en esta carpeta; si falla, usar PowerShell (ver

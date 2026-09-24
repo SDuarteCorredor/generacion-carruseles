@@ -24,6 +24,12 @@ npm install
 Abre Claude Code en esa carpeta. El `CLAUDE.md` y la skill de `.claude/skills/`
 cargan solos: no hay que configurar nada más.
 
+**La primera vez hace preguntas.** Antes del primer carrusel, Claude te
+entrevista en rondas cortas: quién eres, para qué marca trabajas, cómo se ve y
+cómo suena, qué referentes te gustan y qué datos se pueden publicar. Con eso
+llena la carpeta de la marca y crea `.local/perfil.md`, que se queda solo en
+ese computador. Para repetir la entrevista, borra `.local/perfil.md`.
+
 La primera exportación descarga un Chrome sin interfaz (~113 MB) que el motor
 usa para renderizar. Es automático.
 

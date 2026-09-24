@@ -6,6 +6,9 @@ marcas/*/referentes/
 marcas/*/personas.md
 _archivo/
 
+# Perfil de quien usa este computador (lo crea la entrevista de arranque)
+.local/
+
 # Salidas temporales del motor
 salida/*
 !salida/.gitkeep
