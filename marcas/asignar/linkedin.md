@@ -48,3 +48,29 @@ El caso de negocio: continuidad de la operación, rotación, cumplimiento
 cobertura (9 sedes), trayectoria (20+ años, 64+ empresas, 5.000+ colaboradores).
 Solo datos de `marca.md` de la marca. Caption con las reglas de LinkedIn de
 `captions.md`: un emoji al final del primer párrafo, sin parafrasear la pieza.
+
+## Segundo referente: Coderhouse en LinkedIn (analizado 23-sep-2026)
+
+Página pública, leída sin sesión con el navegador integrado (la de *school*
+sí se ve sin login). Imágenes en `referentes/linkedin_coderhouse/` (solo local).
+
+- **No tiene línea propia**: sube sus carruseles de Instagram como documento
+  PDF, con la misma voz (voseo, 👀, "link en comentarios"). Le habla al mismo
+  público que en IG, no a empresas. Referente solo parcial para ASIGNAR B2B.
+- **Lo que más rinde en su feed** (10 posts recientes): las dos piezas de
+  **una sola imagen con una frase reflexiva** y caption que cierra con pregunta
+  — 97 y 54 reacciones — frente a 2–24 de los carruseles-documento y los
+  promocionales. Muestra chica, pero la diferencia es grande.
+- Links **siempre en el primer comentario**, no en el post.
+
+**Qué se adopta para ASIGNAR:**
+1. Formato **"pieza reflexiva"**: una imagen, una frase que un gerente de
+   operaciones reconozca como verdad, sistema visual de LinkedIn (carbón/blanco,
+   azul, firma ASIGNAR). Caption largo con palabras clave, pero cerrando con
+   una pregunta.
+2. **Carruseles de LinkedIn se entregan también en PDF** (el carrusel nativo
+   de LinkedIn es un documento), además de los PNG.
+3. Links en el primer comentario.
+
+**Qué no:** reciclar carruseles de Instagram en LinkedIn. Santiago separó
+las audiencias a propósito.

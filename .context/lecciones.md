@@ -60,6 +60,17 @@
   **chip**, no en blanco suelto. **Santiago lo prefiere navy #001934 con texto
   blanco** (lo ajustó él mismo en "Estoy a esto", 23-sep-2026), no crema.
   Mismo chip navy también sobre el azul de marca.
+- **Siluetas de personas: nunca dibujadas a mano en SVG.** "Parecen muñecos
+  cortados" (24-sep-2026). Van de una persona real: ChatGPT la genera en negro
+  plano sobre blanco, yo la convierto en máscara con ffmpeg y la relleno.
+  El prompt que sirve pide una **foto a contraluz** (backdrop blanco quemado),
+  no "silhouette": esa palabra le da ilustración con líneas blancas. Conversión:
+  `node scripts/siluetas.mjs <foto> <salida.png> <color>`. Banco en
+  `marcas/asignar/recursos/siluetas/` (s1–s5). Santiago la quiere **como sale
+  en la foto, solo sin fondo** (`original 0` → `sN_foto.png`), no rellena de un
+  color; texto blanco con acentos azules (chips azules, no navy).
+- **Azul como acento estratégico** en palabras clave (la itálica) o en botones,
+  no como adorno (se quitó el trazo azul bajo el texto, 24-sep-2026).
 - Si Santiago pega las imágenes en el chat en vez de subirlas, quedan en la
   carpeta `images/` de la sesión como `.webp`: convertirlas y guardarlas en
   `fotos/` igual.
@@ -76,3 +87,6 @@
    --virtual-time-budget=10000 --screenshot=<salida>/0N.png <archivo.html>`.
    El `virtual-time-budget` da tiempo a que carguen las fuentes de Google.
 4. Verificar tamaño con ffprobe y mirar la hoja de contacto antes de avisar.
+5. Santiago también las pide **en 2x** (2160×2700): misma captura con
+   `--force-device-scale-factor=2` (la ventana sigue en 1080,1350), guardadas en
+   `salida/2x/`. El texto sale más nítido; las fotos, a su resolución original.

@@ -45,6 +45,20 @@ registro visual: son la vara.
   telarañas. Sándwich tipográfico con una palabra en azul en el remate.
 - Buen ejemplo de tendencia bien usada: formato prestado, contenido propio.
 
+## "4 preguntas para hacerle a tu líder" (aprobado 24-sep-2026)
+
+`carruseles/2026-09-24_preguntas-a-tu-lider/` · 6 láminas · Claude Design
+
+- Referente: carrusel de preguntas a tu líder (persona recortada gigante sobre
+  foto B/N, la pregunta dentro). Se quedó el gancho; 6 preguntas → 4 por el tope
+  de 6 láminas.
+- **Registro nuevo "persona recortada"**: foto de escena B/N con la acción a
+  los lados + persona real de espaldas en el centro (foto a contraluz, solo sin
+  fondo, `recursos/siluetas/sN_foto.png`). Texto blanco dentro de la espalda,
+  palabras clave en itálica azul, número en chip azul.
+- Iteración: silueta dibujada ("muñecos cortados") → rellena de color → negra
+  → **foto tal cual sin fondo** (la que gustó: "mucho mejor").
+
 ## Rechazado
 
 - Primera versión del motor con tarjetas de franja, logo, @ y paginador.
