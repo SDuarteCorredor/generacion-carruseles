@@ -13,6 +13,8 @@ se completa con suposiciones.
 ## Reglas visuales
 
 - Formato: 4:5 (1080×1350), máx. 6 láminas, máx. 5 imágenes.
+- Zona segura: texto y elementos clave entre y = 150 y y = 1200, a 60 px de
+  los lados (Facebook recorta las miniaturas; ver `.context/lecciones.md`).
 - ¿Logo o firma dentro de la lámina? PENDIENTE (por red)
 - Color primario (hex, sacado del brand kit o del logo en SVG, nunca de un pantallazo): PENDIENTE
 - Colores secundarios: PENDIENTE

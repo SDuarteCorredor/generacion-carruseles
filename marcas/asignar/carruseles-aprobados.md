@@ -66,3 +66,5 @@ registro visual: son la vara.
   superado por el carril de foto).
 - **Memes** (gato divo, 16–17 sep): *"no funcionó para nada"*. Santiago los
   hace en Canva. No proponer memes. Lo hecho está en `_archivo/memes/`.
+  Excepción (25-sep-2026): carrusel "-10 de aura" con memes que **él consigue**;
+  yo hago plantilla y textos.

@@ -4,6 +4,12 @@
 
 - La carpeta está en el Escritorio **sincronizado con Google Drive**. No borrar
   material sin preguntar; lo que sale del flujo va a `_archivo/`.
+- **Rutas para Santiago: siempre completas, con `\` y en bloque de código**
+  (`C:\Users\PC 15\Desktop\Generacion_Carruseles\...\salida`). Las pega en la
+  ventana "Abrir archivo" de Windows: una ruta relativa (`carruseles/...`) o
+  con nombre en español (`Descargas\...`) da "No se puede abrir esta
+  ubicación" (pasó dos veces). Mejor aún: abrirle la carpeta en el Explorador
+  (reveal_path) con el archivo seleccionado.
 - **Nunca copiar entregables fuera de la carpeta** (ni a Descargas "para que
   sea más fácil"): Santiago no quiere archivos sueltos. Los finales viven solo
   en `salida/`; si un programa no abre la carpeta, se resuelve el acceso, no
@@ -37,6 +43,14 @@
   subexposición). Se ajusta por lámina con `oscurecer`.
 
 ## Diseño
+
+- **Zona segura (regla general, todas las marcas):** todo el texto, números y
+  lo importante va entre **y = 150 y y = 1200** de la lámina de 1080×1350, y a
+  **60 px** o más de los bordes laterales. Fuera de esa franja solo fondo.
+  Por qué: Facebook, en un post de varias imágenes, recorta las miniaturas
+  casi a cuadrado (se pierden ~135 px arriba y abajo) y el "-10" de "aura" se
+  cortó (25-sep-2026). La grilla del perfil de Instagram también recorta.
+  Revisar la hoja de contacto con dos líneas guía en 150 y 1200.
 
 - Nubes con degradado radial se ven como manchas: la versión aprobada usa
   círculos sólidos con base plana, **solo en los bordes**, centro limpio.

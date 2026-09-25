@@ -74,11 +74,15 @@ src/ scripts/ public/         motor Remotion de respaldo (ver MOTOR.md)
 
 1. **Guion, prompts y captions en el chat**, nunca en archivo.
 2. Guion aprobado antes de que se generen imágenes.
-3. Máximo 6 láminas, máximo 5 imágenes, siempre 4:5.
+3. Máximo 6 láminas, máximo 5 imágenes, siempre 4:5. **Zona segura:** texto y
+   elementos clave entre y = 150 y y = 1200, a 60 px de los lados (Facebook
+   recorta las miniaturas).
 4. Nunca inventar datos: solo los de `marca.md` de la marca o los que el usuario confirme.
 5. Exportar siempre los PNG finales a `salida/` y revisar la hoja de contacto antes de avisar.
 6. No borrar material sin preguntar.
-7. **No proponer memes**: se probaron y se descartaron.
+7. **No proponer memes por iniciativa propia** (el meme generado con IA se descartó).
+   Si el usuario trae los memes (imágenes que él consigue), sí: yo armo la
+   plantilla y escribo los textos para que calcen con cada meme.
 
 ## Motor Remotion (respaldo)
 

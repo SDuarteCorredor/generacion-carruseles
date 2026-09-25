@@ -10,6 +10,8 @@ marca). Aquí va solo lo que es **propio del carrusel** o lo que difiere del vid
 - **Cero cromo**: ni logo, ni @, ni web, ni paginador. Instagram ya muestra el
   perfil arriba. (Los carruseles publicados antes de sept-2026 cierran con logo;
   esa ya no es la regla.)
+- **Zona segura:** texto y elementos clave entre y = 150 y y = 1200, a 60 px
+  de los lados. Facebook recorta las miniaturas de los posts de varias fotos.
 - **Una idea por lámina.** Tres a cinco palabras por línea, dos a cuatro líneas.
 - **Nada de tarjetas con franja de color al costado**, íconos en cuadrito ni
   cajas iguales: *"se nota que es creado con ia"*. Datos en chips de papel,
