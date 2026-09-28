@@ -32,7 +32,7 @@ de esa carpeta:
 Marca nueva: copiar `marcas/_plantilla/` a `marcas/<marca>/` y llenarla con el
 usuario **antes** del primer carrusel. Nunca usar datos de una marca en otra.
 
-Marcas configuradas: **asignar** (ASIGNAR SAS, servicios temporales, Colombia).
+Marcas configuradas: **asignar** (ASIGNAR SAS, servicios temporales, Colombia) y **santiago-duarte** (marca personal de Santi, fundador de Lumi; solo Instagram).
 
 ## Conocimiento común a todas las marcas
 

@@ -55,3 +55,16 @@ misma estructura y agregarlo aquí cuando se apruebe.
   pero la lección de prompt sirve.
 - ChatGPT entrega **PNG** aunque el archivo se llame distinto; al importar se
   reconvierte con ffmpeg (ya lo hace `scripts/fotos.mjs --importar`).
+
+## Bloque de estilo aprobado — registro "noche en Bogotá" (Santiago Duarte, 25-sep-2026)
+
+Pensado para que también Qwen o Dreamina den el look oscuro de GPT (la primera
+versión, más clara, salió con cara de stock: fluorescente, nitidez, oreja enfocada).
+
+```
+Candid, underexposed night photograph that looks like a real frame from a 35mm film camera — not an illustration, not a 3D render, not a stock photo, not HDR, not over-sharpened, not glossy. Shot at f/1.4, 1/30s, ISO 3200, deliberately underexposed by about 1.5 stops. Low-key: about 80% of the frame falls into near-black; the only light comes from practical sources. No fill light, no rim light, no interior fluorescent light. Colour: dominant warm amber and sodium orange with small accents of red tail light; shadows deep brown-black with a faint cool tint; muted and desaturated outside the light sources. Heavy natural film grain, soft halation and bloom around every light, slight softness everywhere — nothing tack-sharp. People appear only as dark silhouettes or out-of-focus shapes: no visible faces, no skin detail, nobody looking at camera. No text, no readable signs, no logos, no watermarks. Contemporary Bogotá, Colombia, cold rainy night. Vertical 4:5, 1080x1350. The upper third is almost pure black empty space for a headline; keep the lower quarter dark and simple too.
+```
+
+Cada prompt en su propio bloque de código (Santiago los copia uno por uno).
+Las herramientas gratis (Qwen, Dreamina) entregan cuadrado 2048×2048: se recorta
+al centro a 1638×2048.
