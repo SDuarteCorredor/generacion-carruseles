@@ -39,6 +39,7 @@ Marcas configuradas: **asignar** (ASIGNAR SAS, servicios temporales, Colombia) y
 - `.context/flujo.md` — el flujo completo, de link de referente a PNG final.
 - `.context/adaptar-referentes.md` — qué se conserva de un referente y qué se adapta.
 - `.context/prompts-imagen.md` — prompts para ChatGPT: inglés, specs técnicos. **Leerlo antes de entregar prompts.**
+- `.context/compartible.md` — qué hace que la gente envíe y repostee: formatos, lenguaje, temas y la prueba antes de aprobar. **Leerlo antes de escribir un guion o caption.**
 - `.context/captions.md` — reglas de caption por red (IG/FB y LinkedIn).
 - `.context/lecciones.md` — errores técnicos ya resueltos y cómo exportar. **Leerlo antes de exportar.**
 

@@ -105,6 +105,31 @@ desconectadas."* Lo que sí va (sacado de Ilana y EGO):
   gustan para nada"* → fuera Caveat Brush y el ámbar #F2A33A.
 - **Palabras siempre horizontales** (nada girado): repartidas, pero alineadas.
 - **Nada de trazos "a mano"** (tachones y subrayados ondulados): "las odio, se ven muy irregulares". Tachar con `line-through` de la misma fuente y opacidad baja; enfatizar con tamaño, no con subrayado.
+- **Sin palabras huérfanas**: nunca una palabra sola en la última línea. Cortar a mano con `<br>` en un punto natural ("Por favor / cambiemos de tema."), revisando cada lámina renderizada.
 - La palabra que calla va **espaciada pero legible** (≈44 px, opacidad 0.85,
   alineada con la frase). A 24–28 px "se ve ultra perdida".
 - El texto se integra a la foto (burbuja de chat saliendo del celular), no se pone encima.
+
+## Ronda 2 de referentes (2026-09-28) — "odio totalmente esto, se ven super IA"
+
+Santi rechazó el registro de fotos nocturnas generadas (carrusel 1 y la portada
+del 2). Referentes nuevos en `referentes/ronda2/` (solo local):
+
+| # | Cuenta | Qué hace que NO se vea IA |
+|---|---|---|
+| 01 | @guille.colladomk — "6 hábitos tóxicos" | **Fotos suyas de celular**, casuales, con flash; historia en 1.ª persona ("acabo de salir del mayor burn out de mi vida"); condensada bold amarilla + script itálica en la misma línea; contador 1/6 |
+| 02 | @aldanalichtenberger | Fotos editoriales reales + campos de color plano; frase bold + 3 líneas cortas |
+| 03 | @geishatantra | Texto en máquina de escribir sobre papel arrugado encima de una foto real |
+| 04 | @selia.co | Fotogramas de película real; serif display + texto chico; cierre con CTA |
+| 05 | @billycreative__ | Fotos de él mismo, viñeta de lente, título a mano gigante |
+| 06 | @lutokiogram | **Solo texto** sobre blanco hueso, negro + un azul, anécdota real ("Mi hijo me acaba de decir…"), humor, garabato-mascota y firma a mano |
+| 07 | @amor_unificado | Fotografía de arte/archivo en B/N y sepia; una frase centrada en sans blanca |
+| 08 | @rocio.trece | Fotogramas de su propio video hablando a cámara, subtítulo de una palabra |
+| 09 | @mag.nolia.mag | Pósters/fotogramas de películas, título + director |
+
+**Conclusión:** ninguno usa escenas generadas "perfectas". Las imágenes son
+(a) del propio creador, con celular, imperfectas; (b) fotogramas o fotografía
+de arte reales; o (c) no hay imagen: tipografía con personalidad y una anécdota
+real. Lo que más pesa es la **voz en primera persona con una historia real**.
+El bloque "noche en Bogotá" de `.context/prompts-imagen.md` queda **descartado
+para esta marca**.
